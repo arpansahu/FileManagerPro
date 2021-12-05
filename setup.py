@@ -2,7 +2,7 @@ from setuptools import setup
 
 setup(
     name='FileManagerPro',
-    version='0.1.0',
+    version='0.1.1',
     description='A Python package with extensive file managing capabilities',
     url='https://github.com/arpansahu/FileManagerPro',
     author='Arpan Sahu',
